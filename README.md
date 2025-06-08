@@ -1,100 +1,78 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77,100:ffaf7b&height=120&section=header&text=Sreedeep%20Ghosh&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=AI%20&%20ML%20Enthusiast" alt="Sreedeep Ghosh Banner"/>
 </p>
 
-## 👋 About Me
+---
 
-### 🚧 Currently Building:
-**Hardwork** 💪
+## 🌍 Hello, I'm Sreedeep!  
 
-### 🔬 Experimenting with:
-🤖 AI Agents • 🎙️ Voice Interfaces • 📊 Realtime Flask Dashboards • 🌐 Interactive Web UIs • 🎨 Creative Web Animations
-
-### 📚 Learning:
-🧪 Flask • 🧠 Prompt Engineering • 🔗 WebSockets • 🔒 Secure APIs • 🐳 Docker • 🌿 Spring
-
-### 💬 Ask Me About:
-| Skill | Skill | Skill |
-|-------|-------|-------|
-| 🤖 Artificial Intelligence | 📊 Machine Learning | 🐍 Python |
-| 💻 C | ☕ Java | 📈 MATLAB |
-| 🧪 Flask | 📺 Streamlit | 🔢 TensorFlow |
-| 👁️‍🗨️ OpenCV | ⚛️ React.js | 🌐 Node.js |
-| 🛠️ Git | 🧩 System Design | 🗃️ SQL Server |
-| 🏛️ Oracle 10g |  |  |
-
-### 📫 How to reach me:
-👉 [Click Here](#contact)
-
-### 📄 Explore My RESUME:
-[Resume Link Coming Soon]
-
-### 🌐 Visit My Portfolio:
-**[Coming Soon]**
+👨‍💻 A 3rd-year B.Tech CSE student passionate about crafting software solutions with AI & Machine Learning.  
+✨ Lover of clean code, clever algorithms, and creative problem-solving.
 
 ---
 
-## ⚡ Tech Stack
+## 📫 Reach Me
 
-Python • Flask • Streamlit • React • Node.js • MySQL • SQLite • Git • Docker • WebSockets • TensorFlow • OpenCV • Java • Spring
-
----
-
-## 🎯 Currently Working On
-
-- 🔬 A **Smart Healthcare AI tool** with Predictive Analysis & Voice Chatbot  
-- 🧠 **ChronicCare Copilot+** powered by AI + Flask  
-- 🌍 An **open-source Tech Learning Hub** for students
+- 📍 Station Pally South C-Block, Dankuni, Hooghly - 712311  
+- ✉️ Email: [dummy@gmail.com](mailto:dummy@gmail.com)  
+- 📞 Phone: +91-dummy  
+- 💼 GitHub: [github.com/dummy](https://github.com/dummy)  
+- 🔗 LinkedIn: [linkedin.com/in/dummy](https://linkedin.com/in/dummy)  
 
 ---
 
-## 🎓 Certifications & Achievements
-
-- 🥇 1st Place in Scholarly Thesis (3MST) at **eHaCON 2025**  
-- 🧠 Completed **AI and Python certifications** from LinkedIn Learning and NPTEL  
-
-### 🧾 Certified In:
-| Topic | Certificate |
-|-------|------------|
-| ✔️ IBM Machine Learning & AI Engineering | 👉 [Click](#) |
-| ✔️ Microsoft Azure Cloud Fundamentals | 👉 [Click](#) |
-| ✔️ Google Data Analytics | 👉 [Click](#) |
-
-- 🧩 Solved 100+ LeetCode problems (DSA & problem-solving skills)  
-- 🏛️ Participated in **Google Developer Group (GDG)** and **TCS workshops** at IIT Kharagpur
+## 📄 [Download My Resume](https://yourdomain.com/path-to-your-resume.pdf)  
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Skills & Tools  
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧠 ChronicCare Copilot+ | Flask, SQLite, GPT-4 | AI-based chronic disease assistant with real-time health tracking |
-| 🛡️ SecureChain DApp | Solidity, Web3.js, IPFS | Decentralized File Security and Blockchain Sharing |
-| 📊 CryptoTrendX | Python, Dash, Binance API | Real-time crypto trend analytics and visualizations |
-| 🔊 VoiceHealthBot (beta) | SpeechRecognition, OpenAI | Voice-based health recommendation chatbot |
-
----
-
-## 📫 Connect With Me
-
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 Portfolio: [Coming Soon]
+| Programming & Databases  | AI & ML Tools                   | Soft Skills                | Languages Known      |
+|-------------------------|--------------------------------|---------------------------|---------------------|
+| Python (Advanced)       | TensorFlow, Keras, OpenCV       | Innovative thinker        | English (Advanced)   |
+| Java (Advanced)         | scikit-learn, PyTorch           | Strong problem solver     | Hindi (Advanced)     |
+| C (Intermediate)        |                                | Leadership skills         | Bengali (Advanced)   |
+| MySQL, Oracle 10G       |                                |                           |                     |
 
 ---
 
-## 🐙 Fun Fact
+## 🚀 Projects
 
-> “In a world full of console.log(), dare to be the Debugger.” 🐞
+### 🧓 Elderly Aid — Smart Reminder & Emergency SOS  
+> AI-powered Raspberry Pi device that reminds elderly users in multiple languages and features an emergency SOS for safety.  
+*Technologies:* Raspberry Pi, Python  
 
-**Cyber Debugging**  
-_Debuggers don’t just fix bugs... they decode digital chaos._
+### 🤖 RescueRover — Wireless Rover for Rescue Missions  
+> Smart land rover controlled by Raspberry Pi 3B, enabling remote real-time video navigation for rescue operations.  
+*Technologies:* Raspberry Pi, Python, Socket Programming  
+
+### 🚦 SmartDrivePi — Traffic Signal Automation  
+> IoT system to dynamically adjust traffic light durations using sensor data to reduce idle times at intersections.  
+*Technologies:* Raspberry Pi, Python, IoT Sensors  
+
+### 🎒 Anti-Theft Bag — Bluetooth Security System  
+> Bluetooth-enabled smart bag with unauthorized access detection and instant alerts.  
+*Technologies:* Arduino, C  
+
+---
+
+## 🏅 Achievements & Certifications  
+
+- 🏆 1st Place in Scholarly Thesis (3MST) at **eHaCON 2025**  
+- 🎓 [Google Data Analytics Professional Certificate](https://coursera.org/verify/google-data-analytics)  
+- 🎓 [IBM Data Analyst Professional Certificate](https://coursera.org/verify/ibm-data-analyst)  
+- 🎓 [NPTEL Elite + Silver Certification](https://nptel.ac.in/certification) — Problem Solving in C, Python  
+
+---
+
+## 🎯 Fun Fact  
+
+> *"In a world full of console.log(), dare to be the Debugger."* 🐞  
+> Debuggers don’t just fix bugs… they decode digital chaos.  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=92FE9D&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=92FE9D&height=100&section=footer" alt="footer waving"/>
 </p>
