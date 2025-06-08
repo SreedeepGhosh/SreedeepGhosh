@@ -77,10 +77,10 @@
 
 ## 🔗 Connect with Me
 
-<a href="mailto:dummy2003@gmail.com">
+<a href="mailto:sreedeepghosh2003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/dummy" target="_blank">
+<a href="https://www.linkedin.com/in/sreedeep-ghosh-8309b4273" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
